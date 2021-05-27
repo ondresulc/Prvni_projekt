@@ -1,0 +1,28 @@
+AT	Austria	20	10	true
+BE	Belgium	21	12	true
+BG	Bulgaria	20	9	false
+CY	Cyprus	19	9	false
+CZ	Czech Republic	21	15	false
+DK	Denmark	25	25	false
+DE	Germany	19	7	false
+EE	Estonia	20	9	false
+GR	Greece	24	13	false
+ES	Spain	21	10	false
+FI	Finland	24	14	false
+FR	France	20	10	false
+HR	Croatia	25	13	false
+IT	Italy	22	10	false
+LV	Latvia	21	12	false
+LT	Lithuania	21	9	false
+LU	Luxembourg	17	14	true
+HU	Hungary	27	18	false
+IE	Ireland	23	13.5	true
+MT	Malta	18	7	false
+NL	Netherlands	21	6	false
+PL	Poland	23	8	false
+PT	Portugal	23	13	true
+RO	Romania	20	9	false
+SI	Slovenia	22	9.5	false
+SK	Slovakia	20	10	false
+SE	Sweden	25	12	false
+GB	United Kingdom	20	5	false
